@@ -1,3 +1,3 @@
 import os
-import SSR_XD
-SSR_XD.login()
+import Enc_XD
+Enc_XD.login()
