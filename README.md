@@ -14,3 +14,9 @@
           
            
 ![md7Oqrf](https://user-images.githubusercontent.com/104133480/192360756-2582d710-348b-4230-b4de-86ab175974c0.gif)
+
+# Installing System
+
+#        git clone https://github.com/Shanto75o/Enc-compile.git
+#        cd Enc-compile
+#        python3 Enc-lambda.py
