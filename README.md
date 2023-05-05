@@ -2,7 +2,6 @@
 
 
 
-# Installing System
 
 #        git clone https://github.com/Shanto75o/Enc-compile.git
 #        cd Enc-compile
